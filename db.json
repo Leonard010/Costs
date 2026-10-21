@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "cost": 9111,
+      "services": [
+        {
+          "name": "Contratar leo",
+          "cost": "9000",
+          "description": "criar um lindo site",
+          "id": "d0e51f9b-da5b-4279-89c2-a9b77c732427"
+        },
+        {
+          "name": "teste",
+          "cost": "111",
+          "description": "faz isso",
+          "id": "d4c2d0fd-3ea5-46cb-8de3-c7acc1d17cd0"
+        }
+      ],
+      "name": "TESTE1",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": "ky0LrYD6qV8"
+    },
+    {
+      "name": "meu projeto222",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Leo",
+          "cost": "10000",
+          "description": "faz isso",
+          "id": "74979e3a-4e16-4620-92f9-42339c665e8f"
+        },
+        {
+          "name": "Leo",
+          "cost": "10000",
+          "description": "faz isso",
+          "id": "74979e3a-4e16-4620-92f9-42339c665e8f"
+        }
+      ],
+      "id": "r9X-wxUJgY4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
